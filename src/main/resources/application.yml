@@ -9,3 +9,7 @@ spring:
     queue:
       ball:
         name: ball-queue
+
+logging:
+  level:
+    it.laterale.cloud: DEBUG
