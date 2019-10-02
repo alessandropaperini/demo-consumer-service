@@ -6,3 +6,6 @@ spring:
     username: guest
     password: guest
     host: localhost
+    queue:
+      ball:
+        name: ball-queue
